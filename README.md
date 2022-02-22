@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+𝙺𝚊𝚣𝚝𝚛𝚘𝚜𝚎𝚛+WA+Bot+repo;Created+by+Aj+fx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Kellymowl+WA+Bot+repo;Created+by+fayas+ser;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
  
   <p align="center">
 <span class="avatar"><img height='330' src="https://i.imgur.com/u76xdWZ.jpeg"> </a></span> 
@@ -14,7 +14,7 @@
     <br> 
 </p>
 
-### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx
+### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:
 
 ### SIMPLE SETUP
 
